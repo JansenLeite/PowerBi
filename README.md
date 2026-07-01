@@ -10,7 +10,7 @@
 
 <h3>CARGA HORÁRIA: 32 Horas</h3>
 
-<h3>CONHECIMENTOS ADQUIRIDOS:</h3>
+<h4>CONHECIMENTOS ADQUIRIDOS:</h4>
 
 1. Preparação de dados.<br />
 	&emsp;1.1. Tipos de fontes de dados.<br />
