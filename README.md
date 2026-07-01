@@ -45,30 +45,28 @@
 	&emsp;&emsp;2.2.3. Manipulação de filtros.<br />
 	&emsp;&emsp;2.2.4. Inteligência de dados temporais.<br />
 
-3. Visualização de dados
-3.1. Relatórios
-3.2. Implementar visualizações
-3.2.1. Formatação
-3.2.2. Personalização do tema
-3.3.Formatação condicional
-3.3.1. Configuração de página
-3.3.2. Aprimoramento
-3.4. Indicadores
-3.4.1. Ferramentas personalizadas
-3.4.2. Interações entre visuais
-3.5. Classificação
-3.5.1. Segmentação de dados de
-sincronização
-3.5.2. Camadas visuais
-3.5.3. Drill down
-3.6.Exportação de conteúdo
-3.6.1. Compartilhamento de
-relatórios
-3.6.2. Dispositivos móveis
-3.6.3. Tendências
-3.6.4. Clustering
-3.6.5. Exceções
-3.6.6. Scorecards
+3. Visualização de dados.<br />
+	&emsp;3.1. Relatórios.<br />
+	&emsp;3.2. Implementar visualizações.<br />
+	&emsp;&emsp;3.2.1. Formatação.<br />
+	&emsp;&emsp;3.2.2. Personalização do tema.<br />
+	&emsp;3.3.Formatação condicional.<br />
+	&emsp;&emsp;3.3.1. Configuração de página.<br />
+	&emsp;&emsp;3.3.2. Aprimoramento.<br />
+	&emsp;3.4. Indicadores.<br />
+	&emsp;&emsp;3.4.1. Ferramentas personalizadas.<br />
+	&emsp;&emsp;3.4.2. Interações entre visuais.<br />
+	&emsp;3.5. Classificação.<br />
+	&emsp;&emsp;3.5.1. Segmentação de dados de sincronização.<br />
+	&emsp;&emsp;3.5.2. Camadas visuais.<br />
+	&emsp;&emsp;3.5.3. Drill down.<br />
+	&emsp;3.6.Exportação de conteúdo.<br />
+	&emsp;&emsp;3.6.1. Compartilhamento de relatórios<br />
+	&emsp;&emsp;3.6.2. Dispositivos móveis.<br />
+	&emsp;&emsp;3.6.3. Tendências.<br />
+	&emsp;&emsp;3.6.4. Clustering.<br />
+	&emsp;&emsp;3.6.5. Exceções.<br />
+	&emsp;&emsp;3.6.6. Scorecards.<br />
 
 4. Implantação de ativos
 4.1. Gerenciamento
