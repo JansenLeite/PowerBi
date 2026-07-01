@@ -2,7 +2,6 @@
 <label>Material de Estudo para o Curso de Microsoft PowerBI - SENAI Jaguariúna.</label>
 
 1. Preparação de dados.<br />
-	&emsp;1. Preparação de dados.<br />
 	&emsp;1.1. Tipos de fontes de dados.<br />
 	&emsp;1.2. Conexão.<br />
 	&emsp;1.3. Configuração.<br />
