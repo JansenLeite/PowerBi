@@ -8,9 +8,9 @@
     O curso de Aperfeiçoamento Profissional de Microsoft Power BI tem por objetivo o desenvolvimento de competências que permitem desenvolver soluções por meio da plataforma de business intelligence (BI), utilizada para transformar dados brutos em informações úteis e insights de negócios e seguindo boas práticas, procedimentos e normas.
 </label>
 
-<h5>CARGA HORÁRIA: 32 Horas</h5>
+<h3>CARGA HORÁRIA: 32 Horas</h3>
 
-<h5>CONHECIMENTOS ADQUIRIDOS:</h5>
+<h3>CONHECIMENTOS ADQUIRIDOS:</h3>
 
 1. Preparação de dados.<br />
 	&emsp;1.1. Tipos de fontes de dados.<br />
