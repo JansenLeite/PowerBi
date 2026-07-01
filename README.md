@@ -1,4 +1,4 @@
-# Microsoft Power BI
+# Microsoft PowerBI
 <label>Material de Estudo para o Curso de Microsoft PowerBI - SENAI Jaguariúna.</label><br />
 
 <b>Profº Jansen Leite</b><br /><br />
@@ -96,5 +96,3 @@
 
 <h3>Download do Power BI para Windows</h3>
 <a href="https://download.microsoft.com/download/8/8/0/880bca75-79dd-466a-927d-1abf1f5454b0/PBIDesktopSetup_x64.exe">Clique aqui para baixar o programa</a>
-
-
