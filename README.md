@@ -1,4 +1,4 @@
-# Microsoft Power BI - 1. Preparação de Dados:
+# Microsoft Power BI
 <label>Material de Estudo para o Curso de Microsoft PowerBI - SENAI Jaguariúna.</label><br />
 
 <b>Profº Jansen Leite</b><br /><br />
