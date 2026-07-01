@@ -3,7 +3,7 @@
 
 <b>Profº Jansen Leite</b><br /><br />
 
-<h4>OBJETIVO DO CURSO:</h4>
+<h3>OBJETIVO DO CURSO:</h3>
 <label>
     O curso de Aperfeiçoamento Profissional de Microsoft Power BI tem por objetivo o desenvolvimento de competências que permitem desenvolver soluções por meio da plataforma de business intelligence (BI), utilizada para transformar dados brutos em informações úteis e insights de negócios e seguindo boas práticas, procedimentos e normas.
 </label>
