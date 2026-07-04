@@ -41,10 +41,10 @@
 
 # Atividade Avaliativa 01:
 
-<h5>Uma empresa de e-commerce no ramo de Tecnologia possui um sistema ERP que gerencia as vendas de seus produtos. Em uma reunião ficou definido que a empresa precisar adotar métricas baseando seu volume de venda para tomadas de decisões. Um gerente sugeriu um DASHBOARD contemplando os anos de 2021, 2022 e 2023.</h5>
-
-<h5>Desta forma, caberá a você, criar um DASHBOARD para a Análise de Vendas levando em consideração as seguintes características:</h5>
-
+<label>Uma empresa de e-commerce no ramo de Tecnologia possui um sistema ERP que gerencia as vendas de seus produtos. Em uma reunião ficou definido que a empresa precisar adotar métricas baseando seu volume de venda para tomadas de decisões. Um gerente sugeriu um DASHBOARD contemplando os anos de 2021, 2022 e 2023.</label>
+<br /><br />
+<label>Desta forma, caberá a você, criar um DASHBOARD para a Análise de Vendas levando em consideração as seguintes características:</label>
+<br /><br />
 &emsp;- Total de Faturamento;<br />
 &emsp;- Total de Itens Vendidos;<br />
 &emsp;- Quantidade de Itens Vendidos por Marca;<br />
