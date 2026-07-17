@@ -45,10 +45,19 @@
 <br /><br />
 <label>Desta forma, caberá a você, criar um DASHBOARD para a Análise de Vendas levando em consideração as seguintes características:</label>
 <br /><br />
-&emsp;- Total de Faturamento;<br />
-&emsp;- Total de Itens Vendidos;<br />
-&emsp;- Quantidade de Itens Vendidos por Marca;<br />
-&emsp;- Quantidade de Itens Vendidos por Categoria;<br />
+
+<h3>KPI's</h3>
+&emsp;- FAURAMENTO DE VENDAS;<br />
+&emsp;- TOTAL DE ITENS VENDIDOS;<br />
+&emsp;- QUANTIDADE DE ITENS VENDIDOS POR MARCA;<br />
+&emsp;- QUANTIDADE DE ITENS VENDIDOS POR CATEGORIA;<br />
+
+<h3>FILTROS</h3>
+&emsp;- CONTINENTE;<br />
+&emsp;- PAÍS;<br />
+&emsp;- ANO;<br />
+&emsp;- MARCA;<br />
+&emsp;- PRODUTO;<br />
 
 <h3>Sugestão de BI</h3>
 <img src="https://github.com/JansenLeite/PowerBi/blob/main/1_Preparacao_de_Dados/PWBI_02_Vendas_LojaVirtual.png" alt="Sugestão de Dash de Vendas">
