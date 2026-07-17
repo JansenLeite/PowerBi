@@ -50,5 +50,8 @@
 &emsp;- Quantidade de Itens Vendidos por Marca;<br />
 &emsp;- Quantidade de Itens Vendidos por Categoria;<br />
 
+<h3>Sugestão de BI</h3>
+<img src="https://github.com/JansenLeite/PowerBi/blob/main/1_Preparacao_de_Dados/PWBI_02_Vendas_LojaVirtual.png" alt="Sugestão de Dash de Vendas">
+
 
 
