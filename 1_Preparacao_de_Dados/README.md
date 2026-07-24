@@ -63,4 +63,17 @@
 <img src="https://github.com/JansenLeite/PowerBi/blob/main/1_Preparacao_de_Dados/PWBI_02_Vendas_LojaVirtual.png" alt="Sugestão de Dash de Vendas">
 
 
+# Atividade Avaliativa 02:
+
+<label>Uma empresa precisa controlar seu estoque através de uma abordagem interativa aonde seja possível analisar graficamente.
+<br />
+Com os seus conhecimentos prévios em BI e Power BI, discuta e sugira os principais KPI's e Filtros que julgar necessário para essa análise.</label>
+<br /><br />
+<label><b>Observação: </b>Leve em consideração toda a análise prévia e conceito de tratamento de dados.</label>
+<br /><br />
+
+<h3>Base de Dados - Controle de Estoque</h3>
+<a href="">Controle de Estoque.xlsx</a>
+
+
 
