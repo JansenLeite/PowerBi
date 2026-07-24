@@ -73,7 +73,7 @@ Com os seus conhecimentos prévios em BI e Power BI, discuta e sugira os princip
 <br /><br />
 
 <h3>Base de Dados - Controle de Estoque</h3>
-<a href="">Controle de Estoque.xlsx</a>
+<a href="https://github.com/JansenLeite/PowerBi/blob/main/1_Preparacao_de_Dados/PWBI_03_Controle_Estoque.xlsx">Controle de Estoque.xlsx</a>
 
 
 
