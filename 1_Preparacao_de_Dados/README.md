@@ -39,7 +39,7 @@
 <a href="https://download.microsoft.com/download/8/8/0/880bca75-79dd-466a-927d-1abf1f5454b0/PBIDesktopSetup_x64.exe">Clique aqui para baixar o programa</a>
 
 
-# Atividade Avaliativa 01:
+# Exercício com o Professor:
 
 <label>Uma empresa de e-commerce no ramo de Tecnologia possui um sistema ERP que gerencia as vendas de seus produtos. Em uma reunião ficou definido que a empresa precisar adotar métricas baseando seu volume de venda para tomadas de decisões. Um gerente sugeriu um DASHBOARD contemplando os anos de 2021, 2022 e 2023.</label>
 <br /><br />
@@ -66,7 +66,7 @@
 <a href="https://github.com/JansenLeite/PowerBi/blob/main/1_Preparacao_de_Dados/PWBI_01_Vendas_LojaVirtual.xlsx">PWBI_01_Vendas_LojaVirtual.xlsx</a>
 
 
-# Atividade Avaliativa 02:
+# Atividade Avaliativa 01:
 
 <label>Uma empresa precisa controlar seu estoque através de uma abordagem interativa aonde seja possível analisar graficamente.
 <br />
