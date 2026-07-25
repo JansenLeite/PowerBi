@@ -47,7 +47,7 @@
 <br /><br />
 
 <h3>KPI's</h3>
-&emsp;- FAURAMENTO DE VENDAS;<br />
+&emsp;- FATURAMENTO DE VENDAS;<br />
 &emsp;- TOTAL DE ITENS VENDIDOS;<br />
 &emsp;- QUANTIDADE DE ITENS VENDIDOS POR MARCA;<br />
 &emsp;- QUANTIDADE DE ITENS VENDIDOS POR CATEGORIA;<br />
@@ -62,6 +62,9 @@
 <h3>Sugestão de BI</h3>
 <img src="https://github.com/JansenLeite/PowerBi/blob/main/1_Preparacao_de_Dados/PWBI_02_Vendas_LojaVirtual.png" alt="Sugestão de Dash de Vendas">
 
+<h3>Base de Dados - PWBI_01_Vendas_LojaVirtual</h3>
+<a href="https://github.com/JansenLeite/PowerBi/blob/main/1_Preparacao_de_Dados/PWBI_01_Vendas_LojaVirtual.xlsx">PWBI_01_Vendas_LojaVirtual.xlsx</a>
+
 
 # Atividade Avaliativa 02:
 
@@ -73,7 +76,7 @@ Com os seus conhecimentos prévios em BI e Power BI, discuta e sugira os princip
 <br /><br />
 
 <h3>Base de Dados - Controle de Estoque</h3>
-<a href="https://github.com/JansenLeite/PowerBi/blob/main/1_Preparacao_de_Dados/PWBI_03_Controle_Estoque.xlsx">Controle de Estoque.xlsx</a>
+<a href="https://github.com/JansenLeite/PowerBi/blob/main/1_Preparacao_de_Dados/PWBI_03_Controle_Estoque.xlsx">PWBI_03_Controle_Estoque.xlsx</a>
 
 
 
