@@ -1,35 +1,36 @@
 # Microsoft Power BI - 1. Preparação de Dados:
 
-1. Preparação de dados<br />
-	&emsp;1.1. Tipos de fontes de dados<br />
-	&emsp;1.2. Conexão<br />
-	&emsp;1.3. Configuração<br />
-	&emsp;1.3.1.Credenciais<br />
-	&emsp;1.3.2. Níveis de privacidade<br />
-	&emsp;1.3.3. Locais de fonte de dados<br />
-	&emsp;1.4. Seleção de conjunto de dados<br />
-	&emsp;1.4.1. DirectQuery<br />
-	&emsp;1.4.2. Importação<br />
-	&emsp;1.4.3. Duplo<br />
-	&emsp;1.5. Alteração do parâmetro<br />
-	&emsp;1.5.1. Limpeza de dados<br />
-	&emsp;1.5.2. Avaliação de dados<br />
-	&emsp;1.5.3. Inconsistências<br />
-	&emsp;1.5.4. Valores inesperados<br />
-	&emsp;1.6. Importação de dados<br />
-	&emsp;1.6.1. Erros<br />
-	&emsp;1.6.2. Carregar os dados<br />
-	&emsp;1.7. Transformação de colunas<br />
-	&emsp;1.7.1.Consulta<br />
-	&emsp;1.7.2. Esquema em estrela<br />
-	&emsp;1.8. Mesclar consultas<br />
-	&emsp;1.8.1. Consultas de referência<br />
-	&emsp;1.8.2. Duplicadas<br />
-	&emsp;1.8.3. Impacto resultante<br />
-	&emsp;1.9. Criação de relações<br />
-	&emsp;1.9.1. Chaves apropriadas<br />
-	&emsp;1.9.2. Configuração do carregamento<br />
-	
+<pre>
+1. Preparação de dados
+	1.1. Tipos de fontes de dados
+	1.2. Conexão
+	1.3. Configuração
+		1.3.1.Credenciais
+		1.3.2. Níveis de privacidade
+		1.3.3. Locais de fonte de dados
+	1.4. Seleção de conjunto de dados
+		1.4.1. DirectQuery
+		1.4.2. Importação
+		1.4.3. Duplo
+	1.5. Alteração do parâmetro
+		1.5.1. Limpeza de dados
+		1.5.2. Avaliação de dados
+		1.5.3. Inconsistências
+		1.5.4. Valores inesperados
+	1.6. Importação de dados
+		1.6.1. Erros
+		1.6.2. Carregar os dados
+	1.7. Transformação de colunas
+		1.7.1.Consulta
+		1.7.2. Esquema em estrela
+	1.8. Mesclar consultas
+		1.8.1. Consultas de referência
+		1.8.2. Duplicadas
+		1.8.3. Impacto resultante
+	1.9. Criação de relações
+		1.9.1. Chaves apropriadas
+		1.9.2. Configuração do carregamento
+</pre>
 # Material de Apoio:
 
 <h3>Introdução ao Power BI</h3>
