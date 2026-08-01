@@ -32,10 +32,10 @@
 </pre>
 
 <h3>Instruções:</h3>
-<label>- Identificar os KPIs.</label>
-<label>- Identificar os Filtros necessários.</label>
-<label>- Importar a Base de Dados, transformar e carregar no Power BI.</label>
-<label>- Criar um Dashboard.</label>
+<label>- Identificar os KPIs.</label><br />
+<label>- Identificar os Filtros necessários.</label><br />
+<label>- Importar a Base de Dados, transformar e carregar no Power BI.</label><br />
+<label>- Criar um Dashboard.</label><br />
 
 <h3>Considere a Base de Dados - Estoque</h3>
-<a href="">PWBI_02_01_Controle_Produto.xlsx</a>
+<a href="https://github.com/JansenLeite/PowerBi/blob/main/2_Modelagem_de_Dados/PWBI_02_01_Controle_Produto.xlsx">PWBI_02_01_Controle_Produtos.xlsx</a>
