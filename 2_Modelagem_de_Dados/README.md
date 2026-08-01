@@ -37,5 +37,5 @@
 <label>- Importar a Base de Dados, transformar e carregar no Power BI.</label><br />
 <label>- Criar um Dashboard.</label><br />
 
-<h3>Considere a Base de Dados - Estoque</h3>
+<h3>Considere a Base de Dados - Controle Produtos</h3>
 <a href="https://github.com/JansenLeite/PowerBi/blob/main/2_Modelagem_de_Dados/PWBI_02_01_Controle_Produto.xlsx">PWBI_02_01_Controle_Produtos.xlsx</a>
