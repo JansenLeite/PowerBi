@@ -25,9 +25,6 @@
 <pre>
 	Qual o valor total do estoque?
 	Quais produtos possuem estoque abaixo do mínimo?
-	Qual categoria possui maior valor em estoque?
-	Quanto representa cada fornecedor no valor total?
-	Quais produtos possuem maior margem de lucro?
 	Qual o custo médio dos produtos?
 </pre>
 
