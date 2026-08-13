@@ -49,12 +49,15 @@
 <label>- Publicar Projeto e enviar o link público para o e-mail: jansen.leite@sp.senai.br</label><br />
 
 <h3>Considere as Bases de Dados - Clientes, Produtos e Vendas</h3>
-<a href="https://github.com/JansenLeite/PowerBi/blob/main/2_Modelagem_de_Dados/PWBI_02_01_Controle_Produto.xlsx"></a>
-
+<a href="https://github.com/JansenLeite/PowerBi/blob/main/3_Visualizacao_de_Dados/PWBI_03_01_Produtos.xlsx">PWBI_03_01_Produtos.xlsx</a>
+<br />
+<a href="https://github.com/JansenLeite/PowerBi/blob/main/3_Visualizacao_de_Dados/PWBI_03_02_Clientes.xlsx">PWBI_03_02_Clientes.xlsx</a>
+<br />
+<a href="https://github.com/JansenLeite/PowerBi/blob/main/3_Visualizacao_de_Dados/PWBI_03_03_Vendas.xlsx">PWBI_03_03_Vendas.xlsx</a>
 
 # Material de Apoio
 
 <h3>Videos</h3>
 <a href="https://www.youtube.com/watch?v=sfILaGL7cdo">Youtube - Como conectar sua planilha utilizando OneDrive + PowerBI App</a>
-
+<br /><br />
 <a href="https://www.youtube.com/watch?v=XvJmm4gI1GA">Youtube - Como conectar sua planilha utilizando GooglrDrive + PowerBI App</a>
