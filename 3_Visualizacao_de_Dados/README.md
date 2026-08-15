@@ -48,12 +48,15 @@
 <label>- Criar um Dashboard para Análise de Vendas.</label><br />
 <label>- Publicar Projeto e enviar o link público para o e-mail: jansen.leite@sp.senai.br</label><br />
 
-<h3>Considere as Bases de Dados - Clientes, Produtos e Vendas</h3>
+<h3>Considere as Bases de Dados - Produtos, Clientes e Vendas</h3>
 <a href="https://github.com/JansenLeite/PowerBi/blob/main/3_Visualizacao_de_Dados/PWBI_03_01_Produtos.xlsx">PWBI_03_01_Produtos.xlsx</a>
 <br />
 <a href="https://github.com/JansenLeite/PowerBi/blob/main/3_Visualizacao_de_Dados/PWBI_03_02_Clientes.xlsx">PWBI_03_02_Clientes.xlsx</a>
 <br />
 <a href="https://github.com/JansenLeite/PowerBi/blob/main/3_Visualizacao_de_Dados/PWBI_03_03_Vendas.xlsx">PWBI_03_03_Vendas.xlsx</a>
+
+<h3>Sugestão de Dashboard:</h3>
+<img src="https://github.com/JansenLeite/PowerBi/blob/main/3_Visualizacao_de_Dados/PWBI_03_04_DashExemplo.png" alt="Dashboard Exemplo" />
 
 # Material de Apoio
 
@@ -61,3 +64,7 @@
 <a href="https://www.youtube.com/watch?v=sfILaGL7cdo">Youtube - Como conectar sua planilha utilizando OneDrive + PowerBI App</a>
 <br /><br />
 <a href="https://www.youtube.com/watch?v=XvJmm4gI1GA">Youtube - Como conectar sua planilha utilizando GooglrDrive + PowerBI App</a>
+<br /><br />
+<a href="https://www.youtube.com/watch?v=7VeYvnovMy0">Youtube - Como alterar caminho das planilhas do OneDrive + PowerBI App</a>
+
+
